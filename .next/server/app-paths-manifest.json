@@ -1,0 +1,16 @@
+{
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/api/files/[id]/route": "app/api/files/[id]/route.js",
+  "/api/users/purchases/route": "app/api/users/purchases/route.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/sheet-music/[id]/page": "app/sheet-music/[id]/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/library/page": "app/library/page.js",
+  "/signup/page": "app/signup/page.js"
+}

@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "studio-2073552173-4cfe2"
+  }
+}

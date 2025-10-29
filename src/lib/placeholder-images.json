@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Moonlit piano keys",
+      "imageUrl": "https://images.unsplash.com/photo-1635476573973-fdb06ca7ad4d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBpYW5vJTIwbXVzaWN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "piano music"
+    },
+    {
+      "id": "2",
+      "description": "Violin resting on a score",
+      "imageUrl": "https://images.unsplash.com/photo-1701749059090-ac8afdba7b44?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmlvbGluJTIwbXVzaWN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "violin music"
+    },
+    {
+      "id": "3",
+      "description": "Chopin manuscript",
+      "imageUrl": "https://images.unsplash.com/photo-1576325879310-f8d3ad9fa9dc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNoZWV0JTIwbXVzaWN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "sheet music"
+    },
+    {
+      "id": "4",
+      "description": "Organ pipes in a cathedral",
+      "imageUrl": "https://images.unsplash.com/photo-1600474848954-080e61d18c0d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8b3JnYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "organ bach"
+    },
+    {
+      "id": "5",
+      "description": "Classical quartet performance",
+      "imageUrl": "https://images.unsplash.com/photo-1492563817904-5f1dc687974f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3RyaW5nJTIwcXVhcnRldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "string quartet"
+    },
+    {
+      "id": "6",
+      "description": "A love letter with a piano",
+      "imageUrl": "https://images.unsplash.com/photo-1636740940906-aaa7226ee769?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHBpYW5vJTIwbGV0dGVyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "piano letter"
+    },
+    {
+      "id": "7",
+      "description": "Cello leaning against a chair",
+      "imageUrl": "https://images.unsplash.com/photo-1612702610868-5c3895fed2ba?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2VsbG8lMjBtdXNpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "cello music"
+    },
+    {
+      "id": "8",
+      "description": "Flute on a wooden table",
+      "imageUrl": "https://images.unsplash.com/photo-1666209932578-668a10a2560c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zmx1dGUlMjBjbGFzc2ljfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "flute classic"
+    },
+    {
+      "id": "9",
+      "description": "Spanish guitar in warm light",
+      "imageUrl": "https://images.unsplash.com/photo-1697196179502-c59ca6f2e947?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z3VpdGFyJTIwY2xhc3NpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "guitar classic"
+    },
+    {
+      "id": "10",
+      "description": "Abstract musical notes",
+      "imageUrl": "https://images.unsplash.com/photo-1522008224169-e5992bed5fae?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWMlMjBhYnN0cmFjdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "imageHint": "music abstract"
+    },
+    {
+      "id": "admin-upload",
+      "description": "Admin uploading files",
+      "imageUrl": "https://picsum.photos/seed/11/1200/400",
+      "imageHint": "file upload"
+    },
+    {
+      "id": "notation-preview",
+      "description": "A preview of sheet music notation",
+      "imageUrl": "https://picsum.photos/seed/notation1/600/800",
+      "imageHint": "sheet music notation"
+    }
+  ]
+}

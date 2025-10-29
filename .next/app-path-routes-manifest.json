@@ -1,0 +1,16 @@
+{
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/api/files/[id]/route": "/api/files/[id]",
+  "/api/users/purchases/route": "/api/users/purchases",
+  "/api/auth/signup/route": "/api/auth/signup",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/admin/page": "/admin",
+  "/sheet-music/[id]/page": "/sheet-music/[id]",
+  "/login/page": "/login",
+  "/page": "/",
+  "/library/page": "/library",
+  "/signup/page": "/signup"
+}
